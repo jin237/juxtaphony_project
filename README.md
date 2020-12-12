@@ -120,16 +120,20 @@ https://github.com/jin237/juxtaphony_project/tree/main/data_set/preliminary_expe
 これらをグラフ化したものは以下で出力
 csvファイルまたはtxtファイルにてHamming Windowなどの数値データの公開
 <img src="https://github.com/jin237/juxtaphony_project/blob/main/data_set/preliminary_experiments/analysis_result/throat_demo_spectrum.png">
-図３　スロートマイクのスペクトラムグラフ
+
+  図３　スロートマイクのスペクトラムグラフ
 <br><br>
 <img src="https://github.com/jin237/juxtaphony_project/blob/main/data_set/preliminary_experiments/analysis_result/conde_demo_spectrum.png">
-図４　コンデンサマイクのスペクトラムグラフ
+
+  図４　コンデンサマイクのスペクトラムグラフ
 <br><br>
 <img src="https://github.com/jin237/juxtaphony_project/blob/main/data_set/preliminary_experiments/analysis_result/mix_wave.png">
-図５　スロートマイク及びコンデンサマイクの波形の重ね合わせ
+
+  図５　スロートマイク及びコンデンサマイクの波形の重ね合わせ
 <br><br>
 <img src="https://github.com/jin237/juxtaphony_project/blob/main/data_set/preliminary_experiments/analysis_result/mix_demo.png">
-図６　スロートマイク及びコンデンサマイクのスペクトラムグラフの重ね合わせ
+
+  図６　スロートマイク及びコンデンサマイクのスペクトラムグラフの重ね合わせ
 <br><br>
 
 ### 音声通話による50音における各行の人的相対音声評価
