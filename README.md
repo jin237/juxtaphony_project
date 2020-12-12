@@ -119,16 +119,16 @@ https://github.com/jin237/juxtaphony_project/tree/main/data_set/preliminary_expe
 https://github.com/jin237/juxtaphony_project/tree/main/data_set/preliminary_experiments/analysis_result/throat_demo_spectrum.txt  
 これらをグラフ化したものは以下で出力
 csvファイルまたはtxtファイルにてHamming Windowなどの数値データの公開
-![スロートマイクのスペクトラムグラフ](https://github.com/jin237/juxtaphony_project/tree/main/data_set/preliminary_experiments/analysis_result/throat_demo_spectrum.png)<br>
+<img src="https://github.com/jin237/juxtaphony_project/blob/main/data_set/preliminary_experiments/analysis_result/throat_demo_spectrum.png">
 図３　スロートマイクのスペクトラムグラフ
 <br><br>
-![コンデンサマイクのスペクトラムグラム](https://github.com/jin237/juxtaphony_project/tree/main/data_set/preliminary_experiments/analysis_result/conde_demo_spectrum.png)<br>
+<img src="https://github.com/jin237/juxtaphony_project/blob/main/data_set/preliminary_experiments/analysis_result/conde_demo_spectrum.png">
 図４　コンデンサマイクのスペクトラムグラフ
 <br><br>
-![スロートマイク及びコンデンサマイクの波形の重ね合わせ](https://github.com/jin237/juxtaphony_project/tree/main/data_set/preliminary_experiments/analysis_result/mix_wave.png)<br>
+<img src="https://github.com/jin237/juxtaphony_project/blob/main/data_set/preliminary_experiments/analysis_result/mix_wave.png">
 図５　スロートマイク及びコンデンサマイクの波形の重ね合わせ
 <br><br>
-![スロートマイク及びコンデンサマイクのスペクトラムグラフの重ね合わせ](https://github.com/jin237/juxtaphony_project/tree/main/data_set/preliminary_experiments/analysis_result/mix_demo.png)<br>
+<img src="https://github.com/jin237/juxtaphony_project/blob/main/data_set/preliminary_experiments/analysis_result/mix_demo.png">
 図６　スロートマイク及びコンデンサマイクのスペクトラムグラフの重ね合わせ
 <br><br>
 
