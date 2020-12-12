@@ -115,20 +115,20 @@ https://www.coscom.co.jp/hiragana-katakana/kanatable-j.html
 # 数値データ内容
 ### 上記の音源に対する各ウィンドウの数値データ（.csv/.txt）
 データは、以下のようなもので出力
-https://github.com/jin237/juxtaphony_throatmicrophone/blob/master/demo_github/conde_demo_spectrum.txt
-https://github.com/jin237/juxtaphony_throatmicrophone/blob/master/demo_github/throat_demo_spectrum.txt  
+https://github.com/jin237/juxtaphony_project/tree/main/data_set/preliminary_experiments/analysis_result/conde_demo_spectrum.txt
+https://github.com/jin237/juxtaphony_project/tree/main/data_set/preliminary_experiments/analysis_result/throat_demo_spectrum.txt  
 これらをグラフ化したものは以下で出力
 csvファイルまたはtxtファイルにてHamming Windowなどの数値データの公開
-![スロートマイクのスペクトラムグラフ](https://github.com/jin237/juxtaphony_throatmicrophone/blob/master/demo_github/throat_demo_spectrum.png)<br>
+![スロートマイクのスペクトラムグラフ](https://github.com/jin237/juxtaphony_project/tree/main/data_set/preliminary_experiments/analysis_result/throat_demo_spectrum.png)<br>
 図３　スロートマイクのスペクトラムグラフ
 <br><br>
-![コンデンサマイクのスペクトラムグラム](https://github.com/jin237/juxtaphony_throatmicrophone/blob/master/demo_github/conde_demo_spectrum.png)<br>
+![コンデンサマイクのスペクトラムグラム](https://github.com/jin237/juxtaphony_project/tree/main/data_set/preliminary_experiments/analysis_result/conde_demo_spectrum.png)<br>
 図４　コンデンサマイクのスペクトラムグラフ
 <br><br>
-![スロートマイク及びコンデンサマイクの波形の重ね合わせ](https://github.com/jin237/juxtaphony_throatmicrophone/blob/master/demo_github/mix_wave.png)<br>
+![スロートマイク及びコンデンサマイクの波形の重ね合わせ](https://github.com/jin237/juxtaphony_project/tree/main/data_set/preliminary_experiments/analysis_result/mix_wave.png)<br>
 図５　スロートマイク及びコンデンサマイクの波形の重ね合わせ
 <br><br>
-![スロートマイク及びコンデンサマイクのスペクトラムグラフの重ね合わせ](https://github.com/jin237/juxtaphony_throatmicrophone/blob/master/demo_github/mix_demo.png)<br>
+![スロートマイク及びコンデンサマイクのスペクトラムグラフの重ね合わせ](https://github.com/jin237/juxtaphony_project/tree/main/data_set/preliminary_experiments/analysis_result/mix_demo.png)<br>
 図６　スロートマイク及びコンデンサマイクのスペクトラムグラフの重ね合わせ
 <br><br>
 
