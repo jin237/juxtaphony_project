@@ -205,10 +205,11 @@ csvファイルまたはtxtファイルにてHamming Windowなどの数値デー
 
 # 参考資料(articles内)
 ### 音源抽出・モデル作成
-  - [July 2018, 情報処理学会研究報告, Vol.2018-SLP-123 No.8, “深層学習に基づく特徴量変換を用いた咽喉マイクの音声認識”](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&item_id=190621&item_no=1&attribute_id=1&file_no=1)
-  - [September 2019, INTERSPEECH 2019, "Knowledge Distillation for Throat Microphone Speech Recognition"](https://www.researchgate.net/publication/335829265_Knowledge_Distillation_for_Throat_Microphone_Speech_Recognition)
+
+  - [鈴木 貴仁, 緒方 淳, 綱川 隆司, 西田 昌史, 西村 雅史, July 2018, 情報処理学会研究報告, Vol.2018-SLP-123 No.8, “深層学習に基づく特徴量変換を用いた咽喉マイクの音声認識”](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&item_id=190621&item_no=1&attribute_id=1&file_no=1)
+  - [T.Suzuki, J.Ogata, T.Tsunakawa, M.Nishida, September 2019, INTERSPEECH 2019, "Knowledge Distillation for Throat Microphone Speech Recognition"](https://www.researchgate.net/publication/335829265_Knowledge_Distillation_for_Throat_Microphone_Speech_Recognition)
   - [Deep Learningにおける知識の蒸留](http://codecrafthouse.jp/p/2018/01/knowledge-distillation/)
-  - [Proceedings, APSIPA Annual Summit and Conference 2018 12-15 November 2018, Hawaii, "Bottleneck feature-mediated DNN-based feature mapping for throat microphone speech recognition"](http://www.apsipa.org/proceedings/2018/pdfs/0001738.pdf)
+  - [T.Suzuki, J.Ogata, T.Tsunakawa, M.Nishida, M.Nishimura, Proceedings, APSIPA Annual Summit and Conference 2018 12-15 November 2018, Hawaii, "Bottleneck feature-mediated DNN-based feature mapping for throat microphone speech recognition"](http://www.apsipa.org/proceedings/2018/pdfs/0001738.pdf)
   - [August, 2013, Koc University, A Thesis Submitted to the
 Graduate School of Sciences and Engineering in Partial Fulfillment of the Requirements for the Degree of Master of Science in Electrical and Electronics Engineering, "Enhancement of Throat Microphone Recordings Using Gaussian Mixture Model Probabilistic Estimator"](https://arxiv.org/abs/1804.05937)
   - [January 2004, COST278 and ISCA Tutorial and Research Workshop (ITRW) on Robustness Issues in Conversational Interaction, "Combined Use of Close-Talk and Throat Microphones for Improved Speech Recognition under Non-Stationary Background Noise"](https://www.researchgate.net/publication/228889100_Combined_use_of_close-talk_and_throat_microphones_for_improved_speech_recognition_under_non-stationary_background_noise)
