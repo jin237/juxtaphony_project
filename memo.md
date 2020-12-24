@@ -69,7 +69,7 @@ B41「最近の 不調を 理由に ソウル五輪候補選手から 外すこ�
 
 ## 第５章　謝辞
 
-第６章　参考文献
+## 第６章　参考文献
 1. L. Morawska, October 2006, Indoor Air, Volume 16, Issue 5,  P.327-401, “Droplet fate in indoor environments, or can we prevent the spread of infection?”
 2. M. Jayaweeraa, H. Pererab, B. Gunawardanaa, J. Manatungea, September 2020, Article 109819, Environmental Research, Volume188, “Transmission of COVID-19 virus by droplets and aerosols: A critical review on the unresolved dichotomy“
 3. Correction for Zhang et al., October 05, 2020, “ Identifying airborne transmission as the dominant route for the spread of COVID-19.”
